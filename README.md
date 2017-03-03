@@ -1,1 +1,1 @@
-# first blog 
+## [如何写出一个高质量React组件](./如何写出一个高质量React组件.md) 
