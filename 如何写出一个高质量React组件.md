@@ -1,7 +1,7 @@
 ## 书写一个React高质量组件
 
 ### 首先上预期图
-![预期效果](./images/search-select.png)
+![预期效果](images/search-select.png)
 
 - 从图片中不难发现，整个组件可以拆分成 两个`Input`组件和一个展示的`List`;
 
